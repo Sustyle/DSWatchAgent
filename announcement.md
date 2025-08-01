@@ -1,7 +1,7 @@
 ---
-id: 3
-title: 새로운 기능 업데이트 안내
-intervalMinutes: 120
+"id": "3",
+"title": "새로운 기능 업데이트 안내",
+"intervalMinutes": "120"
 ---
 
 안녕하세요, 사용자 여러분.
